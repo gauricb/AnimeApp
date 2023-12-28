@@ -1,0 +1,18 @@
+version: '3.9'
+services: 
+  client: 
+    build: client
+    ports:
+      - '5173:5173'
+  auth-service:
+    build: auth-service
+    ports:
+      - '4000:4000'
+  database-service:
+    build: database-service
+    ports:
+      - '4001:4001'
+  fetch-service:
+    build: fetch-service
+    ports:
+      - '4002:4002'

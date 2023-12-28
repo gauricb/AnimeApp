@@ -1,0 +1,25 @@
+info: Server listening on port 4000 {"timestamp":"2023-12-09T06:39:15.265Z"}
+info: Login successful {"timestamp":"2023-12-09T06:40:58.553Z","user":"gbarar@umass.edu"}
+info: Server listening on port 4000 {"timestamp":"2023-12-11T20:21:51.614Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:27:37.833Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:27:48.505Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:31:42.724Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:31:42.735Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:31:42.772Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:31:42.813Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-12T01:31:42.834Z"}
+info: Login successful {"timestamp":"2023-12-12T01:38:55.398Z","user":"gbarar@umass.edu"}
+info: Server listening on port 4000 {"timestamp":"2023-12-14T01:36:20.162Z"}
+info: Login successful {"timestamp":"2023-12-14T01:36:37.735Z","user":"gbarar@umass.edu"}
+info: Login successful {"timestamp":"2023-12-14T01:45:35.729Z","user":"gbarar@umass.edu"}
+info: Server listening on port 4000 {"timestamp":"2023-12-27T17:49:40.097Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-27T18:01:36.192Z"}
+info: Server listening on port 4000 {"timestamp":"2023-12-27T18:06:42.525Z"}
+error: Internal server error {"error":"data.weak_password.reduce is not a function","timestamp":"2023-12-27T18:06:54.083Z"}
+info: Registration successful {"timestamp":"2023-12-27T18:07:45.055Z","user":"luffy@merry.com"}
+warn: Login failed {"email":"luffy@merry.com","error":"Email not confirmed","timestamp":"2023-12-27T18:10:19.033Z"}
+info: Registration successful {"timestamp":"2023-12-27T18:12:10.379Z","user":"luffy@merry.com"}
+info: Login successful {"timestamp":"2023-12-27T18:12:27.383Z","user":"luffy@merry.com"}
+warn: Registration failed {"email":"luffy@merry.com","error":"User already registered","timestamp":"2023-12-27T18:13:16.617Z"}
+info: Login successful {"timestamp":"2023-12-27T18:13:46.749Z","user":"luffy@merry.com"}
+info: Login successful {"timestamp":"2023-12-28T17:45:26.495Z","user":"gbarar@umass.edu"}
