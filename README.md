@@ -1,4 +1,4 @@
-# AniME App
+# AniME Web App
 
 Welcome to AniME, your ultimate destination for exploring, discovering, and experiencing the captivating world of anime. AniME is a feature-rich web application designed to provide users with a seamless and immersive anime discovery experience.
 
