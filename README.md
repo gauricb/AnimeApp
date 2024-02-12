@@ -29,7 +29,7 @@ Delve deeper into the anime community's sentiments with our sentiment analysis f
 ### Backend Technologies
 - **FastAPI**: Fast and efficient API framework for backend development.
 - **Hugging Face Transformers**: NLP models for sentiment analysis.
-- **Express**: Server-side rendering and backend logic handling.
+- **Express**: Developed REST API endpoints for efficient server-side rendering and backend logic handling.
 - **Supabase**: Manages user authentication and database functions.
 
 ### Frontend Technologies
